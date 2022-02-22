@@ -24,4 +24,4 @@
 
 -  Abre conta(Corrente, Universitária, Poupança, Salário).
 - Realiza as operações básicas(Saque, Depósito, Transferência, Extrato).
-- É possível transferir tanto de para conta de mesmo titular, quanto para distintos.
+- É possível transferir tanto de conta mesmo titular, quanto para distintos.
